@@ -1,0 +1,9 @@
+.idea
+*.tmp
+.DS_Store
+.git
+.npmrc
+.svn
+node_modules/
+npm-debug.log
+.gitignore

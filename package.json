@@ -1,0 +1,12 @@
+{
+  "name": "gy-prettier",
+  "version": "0.0.3",
+  "main": "index.js",
+  "keywords": ["prettier", "config"],
+  "author": "gy",
+  "license": "ISC",
+  "description": "a prettier ruler by gy",
+  "publishConfig": {
+    "access": "public"
+  }
+}

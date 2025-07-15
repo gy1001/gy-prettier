@@ -1,6 +1,6 @@
 {
   "name": "gy-prettier",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "index.js",
   "keywords": ["prettier", "config"],
   "author": "gy",
@@ -8,5 +8,9 @@
   "description": "a prettier ruler by gy",
   "publishConfig": {
     "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gy1001/gy-prettier.git"
   }
 }
